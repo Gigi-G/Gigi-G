@@ -2,7 +2,7 @@
 
 [![Gigi-G's github stats](https://github-readme-stats.vercel.app/api?username=Gigi-G&show_icons=true&title_color=487490&icon_color=487490)](https://github.com/Gigi-G/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigi-G&layout=compact&title_color=487490&icon_color=487490)](https://github.com/Gigi-G/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigi-G&layout=compact&title_color=487490&icon_color=487490)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gigi-G/Gigi-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
